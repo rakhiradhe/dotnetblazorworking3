@@ -1,0 +1,27 @@
+C:\vscode jan23\dotnetprject\blazor project3\bin\Debug\net6.0\appsettings.Development.json
+C:\vscode jan23\dotnetprject\blazor project3\bin\Debug\net6.0\appsettings.json
+C:\vscode jan23\dotnetprject\blazor project3\bin\Debug\net6.0\blazor project3.staticwebassets.runtime.json
+C:\vscode jan23\dotnetprject\blazor project3\bin\Debug\net6.0\blazor project3.exe
+C:\vscode jan23\dotnetprject\blazor project3\bin\Debug\net6.0\blazor project3.deps.json
+C:\vscode jan23\dotnetprject\blazor project3\bin\Debug\net6.0\blazor project3.runtimeconfig.json
+C:\vscode jan23\dotnetprject\blazor project3\bin\Debug\net6.0\blazor project3.dll
+C:\vscode jan23\dotnetprject\blazor project3\bin\Debug\net6.0\blazor project3.pdb
+C:\vscode jan23\dotnetprject\blazor project3\obj\Debug\net6.0\blazor project3.csproj.AssemblyReference.cache
+C:\vscode jan23\dotnetprject\blazor project3\obj\Debug\net6.0\blazor project3.GeneratedMSBuildEditorConfig.editorconfig
+C:\vscode jan23\dotnetprject\blazor project3\obj\Debug\net6.0\blazor project3.AssemblyInfoInputs.cache
+C:\vscode jan23\dotnetprject\blazor project3\obj\Debug\net6.0\blazor project3.AssemblyInfo.cs
+C:\vscode jan23\dotnetprject\blazor project3\obj\Debug\net6.0\blazor project3.csproj.CoreCompileInputs.cache
+C:\vscode jan23\dotnetprject\blazor project3\obj\Debug\net6.0\blazor project3.MvcApplicationPartsAssemblyInfo.cache
+C:\vscode jan23\dotnetprject\blazor project3\obj\Debug\net6.0\blazor project3.RazorAssemblyInfo.cache
+C:\vscode jan23\dotnetprject\blazor project3\obj\Debug\net6.0\blazor project3.RazorAssemblyInfo.cs
+C:\vscode jan23\dotnetprject\blazor project3\obj\Debug\net6.0\staticwebassets.build.json
+C:\vscode jan23\dotnetprject\blazor project3\obj\Debug\net6.0\staticwebassets.development.json
+C:\vscode jan23\dotnetprject\blazor project3\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\vscode jan23\dotnetprject\blazor project3\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\vscode jan23\dotnetprject\blazor project3\obj\Debug\net6.0\scopedcss\bundle\blazor project3.styles.css
+C:\vscode jan23\dotnetprject\blazor project3\obj\Debug\net6.0\scopedcss\projectbundle\blazor project3.bundle.scp.css
+C:\vscode jan23\dotnetprject\blazor project3\obj\Debug\net6.0\blazor project3.dll
+C:\vscode jan23\dotnetprject\blazor project3\obj\Debug\net6.0\refint\blazor project3.dll
+C:\vscode jan23\dotnetprject\blazor project3\obj\Debug\net6.0\blazor project3.pdb
+C:\vscode jan23\dotnetprject\blazor project3\obj\Debug\net6.0\blazor project3.genruntimeconfig.cache
+C:\vscode jan23\dotnetprject\blazor project3\obj\Debug\net6.0\ref\blazor project3.dll
